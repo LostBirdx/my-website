@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "c92f4f1d593ab867",
+    "id": "2053889d1e7bbc65",
     "type": "split",
     "children": [
       {
-        "id": "4ce7c2e0f10704ab",
+        "id": "e9da4e478de6b95f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/index.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5eb6a41bfd694480",
+    "id": "e8defb42a465495f",
     "type": "split",
     "children": [
       {
-        "id": "f37c2144ca66c059",
+        "id": "107ceae61df4fc0e",
         "type": "tabs",
         "children": [
           {
-            "id": "73eb527b5d440685",
+            "id": "96a2143760fde5e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "26365a5ae329ed3f",
+            "id": "c040f752cc9b880f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "50477d8e17bbed20",
+    "id": "5085fec688941dcd",
     "type": "split",
     "children": [
       {
-        "id": "b2ba59c02628ffa8",
+        "id": "0d40e25a42b8c562",
         "type": "tabs",
         "children": [
           {
-            "id": "3067be8375645ef7",
+            "id": "64ad216a77df72c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +79,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4ce7c2e0f10704ab",
-  "lastOpenFiles": [
-    "docs/index.md",
-    "README.md",
-    "docs/git使用方法/Git的高级用法2-远程仓库.md",
-    "docs/git使用方法/git的基本概念和初始配置.md",
-    "docs/零碎想法.md"
-  ]
+  "active": "e9da4e478de6b95f",
+  "lastOpenFiles": []
 }
