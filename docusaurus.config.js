@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to My Site!',
   tagline: 'This vault is based on dcocusaurus.',
-  url: 'https://lostbird.xyz',
+  url: 'https://lostbirdx.github.io/my-website/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
