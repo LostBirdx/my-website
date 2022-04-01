@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Welcome to My Site! Blog</title>
-        <link>https://lostbirdx.github.io/my-website/blog</link>
-        <description>Welcome to My Site! Blog</description>
+        <title>Welcome to Digital Garden! Blog</title>
+        <link>https://lostbirdx.github.io/blog</link>
+        <description>Welcome to Digital Garden! Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://lostbirdx.github.io/my-website/blog/welcome</link>
+            <link>https://lostbirdx.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p>A blog post folder can be convenient to co-locate blog post images:</p><p><img loading="lazy" alt="Docusaurus Plushie" src="/my-website/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_E7b_"></p><p>The blog supports tags as well!</p><p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>facebook</category>
+            <description><![CDATA[欢迎来到我的博客，我会在这里进行一些博文的写作发表自己的一些简单的感想。]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到我的博客，我会在这里进行一些博文的写作发表自己的一些简单的感想。</p><p>另外这里也是我的网上数字知识花园，我也会在这里介绍一些常用的知识。</p>]]></content:encoded>
             <category>hello</category>
-            <category>docusaurus</category>
+            <category>self intro</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://lostbirdx.github.io/my-website/blog/mdx-blog-post</link>
+            <link>https://lostbirdx.github.io/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -29,23 +28,22 @@
             <category>docusaurus</category>
         </item>
         <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://lostbirdx.github.io/blog/first-blog-post</link>
+            <guid>first-blog-post</guid>
+            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[昨天晚上和一个陌生人聊天,了解到一些远在天边的故事.故事的梗概是这样的:一个30岁左右的男人,怀揣着满腔出世的浪漫情怀生活,最终婚姻破碎.]]></description>
+            <content:encoded><![CDATA[<h1>一个陌生男人的故事</h1><p>昨天晚上和一个陌生人聊天,了解到一些远在天边的故事.故事的梗概是这样的:一个30岁左右的男人,怀揣着满腔出世的浪漫情怀生活,最终婚姻破碎.</p><p>具体来说,是因为他的工作的原因.男人大概做的是一个销售类的底层工作,他的工作能力是很强的.凭借着底薪加提成,每个月能够获得不薄的收入.他的工资比他的同事都要高,由于有提成,他经常性的工资高过他的领导.他还会经常让业绩给他的同事,因为他善良地考虑到别人也要生活.</p><p>但这工作在她妻子眼里肯定是不够体面的,他说:"她之前就不太满意我的工作.最近就一直想让我升职."可是他们两人想法不同.男人是很单纯的那种,心里想着,工作不就是为了挣钱嘛.如果升职了,就没有提成这一部分工资了.现在的底薪加提成带来的收入比他的升职后还要高,他为什么要升职呢?而公司的领导,也想让他升职,据他说可能是嫉妒他工资太高之类的.并施加以威胁的手段,说如果不升职的话,就要降他的底薪了.</p><p>男人的脾气也很直,受不了虚伪的领导和他大谈特谈格局之类的东西,然而实际上,却对他施以威胁的手段,一气之下,就直接递交了辞呈.男人失去了工作,就直接导致了和妻子的矛盾的爆发,两人最终不欢而散....</p><p>"没关系,继续找下一个嘛."</p><p>"现在没有以前那种自信了,很缺乏"</p><p>我言语苍白的安慰对他来说,显然无济于事,或许中年人的生活就是这样的困难无助吧.我尝试着想些什么特别的话来安慰他,可是发现自己终究无法对他的痛苦感同身受,只好作罢.</p><p>他还有一个正在上一年级的小孩,即使已经有了小孩了,他们夫妻俩还是离婚了.世间好物不坚牢,彩云易碎流利脆.</p><p>在我看来,他具有美好的品质,真诚,善良,富有同情心.可能只是因为在某个关键的时间节点,他没有把握好自己的人生,于是就走向了这样的一个支离破碎.</p><p>一个男人需要适应多少入世的钻营生活,才能够撑得起自己出世的浪漫情怀.我不知道,也无法知道.还走在路上 的人无法看到路的终点.</p><p>校园的外面是一栋居民楼,透过窗户能够看到依稀的灯光,不知道这其中的点点万家灯火，又暗藏了多少聚散离合.</p>]]></content:encoded>
+            <category>写作</category>
+        </item>
+        <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://lostbirdx.github.io/my-website/blog/long-blog-post</link>
+            <link>https://lostbirdx.github.io/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
             <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
             <category>hello</category>
-            <category>docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://lostbirdx.github.io/my-website/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
             <category>docusaurus</category>
         </item>
     </channel>
